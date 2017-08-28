@@ -20,5 +20,5 @@
     <br/>
 </p>
 
-![image](https://github.com/mengyu139/MySlamSimulator/master/exapmle1.png)
-![image](https://github.com/mengyu139/MySlamSimulator/master/example2.png)
+![image](https://github.com/mengyu139/MySlamSimulator/raw/master/exapmle1.png)
+![image](https://github.com/mengyu139/MySlamSimulator/raw/master/example2.png)
